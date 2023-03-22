@@ -1,2 +1,2 @@
-# PrepCourse-Henry-2
-Repositorio segunda versión
+prueba de como clonar un repositorio desde Github a mi computadora local
+
